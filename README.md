@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrex09&label=Profile%20views&color=0e75b6&style=flat" alt="shrex09" /> </p>
 
-- 🔭 I’m currently working on [Diet management](https://github.com/Shrex09/Diet-Plan-Management-System-)
+- 🔭 I’m currently working on Sign_Language_Detection
 
 - 🌱 I’m currently learning **Python**
 
